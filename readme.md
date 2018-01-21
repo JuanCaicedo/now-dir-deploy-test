@@ -1,8 +1,8 @@
 # Expected behavior
 
-`now dist` should give the same url as `now dist -n test-cli-and-json`.
+`now dist` should give the same url as `now dist -n foo`.
 
-That is url = ` https://test-cli-and-json-{id}.now.sh`
+That is url = ` https://foo-{id}.now.sh`
 
 # Observed behavior
 
